@@ -5,10 +5,10 @@
   ## 📸 Dashboard Preview
 
 ### 1. Revenue Overview & Monthly Trends
-<img src="./assets/dashboard-top.jpng" alt="Sales Dashboard Overview" width="100%" />
+<img src="dashboard-top.jpeg" alt="Sales Dashboard Overview" width="100%" />
 
 ### 2. Category Breakdown & Top Products
-<img src="./assets/dashboard-bottom.jpng" alt="Category and Top Products" width="100%" />
+<img src="dashboard-bottom.jpeg" alt="Category and Top Products" width="100%" />
 
   <p><em>A modern, interactive, web-based sales data dashboard built with React, python Streamlit, HTML, Javascript & Chart.js.</em></p>
 
