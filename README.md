@@ -9,12 +9,12 @@
 
   <p><em>A modern, interactive, web-based sales data dashboard built with React, python Streamlit, HTML, Javascript & Chart.js.</em></p>
 
-  <p>
+  <p align="center">
     <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge" alt="Status" />
     <img src="https://img.shields.io/badge/Frontend-HTML5%20%7C%20CSS3%20%7C%20JS-blue?style=for-the-badge" alt="Tech Stack" />
     <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License" />
   </p>
-  </div>
+  
 
 ---
 
@@ -36,10 +36,11 @@ The *Interactive Sales Analytics Dashboard* is a fully responsive, web-based bus
 
 ## 🛠️ Tech Stack
 
-* *Markup & Styling:* HTML5, CSS3 (Custom Grid/Flexbox, Dark Theme Styling)
-* *Interactivity:* Vanilla JavaScript (DOM manipulation, dynamic filtering)
-* *Deployment:* GitHub Pages / Static Hosting
+## 🛠️ Tech Stack
 
+* *Frontend:* React, HTML5, JavaScript
+* *Backend / App Framework:* Python, Streamlit
+* *Data Visualization:* Chart.js
 ---
 
 ## 📸 Dashboard Preview
